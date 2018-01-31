@@ -17,7 +17,7 @@ Boilerplate for Sanic+Gino ORM with CLI and async tests.
 
 * You need start docker containers:
 `docker-compose up -d`
-* After run `pgadmin_perms_fix.sh` for fix permissions on `./volumes/pgadmin` directory.
+* After run `pgadmin_perms_fix.sh` for fix permissions on `./volumes/pgadmin` directory:
 `./pgadmin_perms_fix.sh`
 * Install requirements:
 `pip install -r requirements.txt`
