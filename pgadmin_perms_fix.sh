@@ -1,0 +1,1 @@
+sudo chmod -c 0777 ./volumes/pgadmin/

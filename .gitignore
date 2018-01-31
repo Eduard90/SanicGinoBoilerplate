@@ -1,0 +1,14 @@
+.cache
+.pytest_cache
+__pycache__/
+.idea
+*.pyc
+*.pyo
+*.swp
+/static/
+/media/
+/default.backup
+/volumes/
+/*.log
+*.sqlite3
+/.env
