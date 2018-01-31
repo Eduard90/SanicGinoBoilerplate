@@ -6,6 +6,7 @@ Boilerplate for Sanic+Gino ORM with CLI and async tests.
  * Alembic - PG migrations
  * Click - CLI
  * pytest - Tests
+ * docker-compose - PG server and pgadmin4 in docker
 
 
 
