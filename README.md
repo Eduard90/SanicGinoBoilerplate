@@ -12,3 +12,4 @@ Boilerplate for Sanic+Gino ORM with CLI and async tests.
 
 ### TODO ###
  * Add web handlers (+websocket)
+ * Create pgadmin4 image
